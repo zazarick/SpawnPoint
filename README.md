@@ -107,7 +107,7 @@ Debug: false
 ## Автор
 
 zazarick  
-Связь: [ваш Discord, если потребуется]
+Связь: [zazar_light]
 
 ---
 
